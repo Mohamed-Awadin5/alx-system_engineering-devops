@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 [A[B[B[C[D#!bin[D[D[D/[C[D[Cbin/bash
  ls -l
+=======
+#!/bin/bash
+ls
+>>>>>>> 167cc8532c5a701b7f051fe74b512ad6a1fd98da
