@@ -3,5 +3,9 @@
  ls -l
 =======
 #!/bin/bash
+<<<<<<< HEAD
 ls
 >>>>>>> 167cc8532c5a701b7f051fe74b512ad6a1fd98da
+=======
+ls -l
+>>>>>>> 630a352dc08c81eb3fb0c6ac43360dfeca9a5f49
