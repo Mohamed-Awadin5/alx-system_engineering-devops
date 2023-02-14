@@ -1,3 +1,2 @@
-#!/bin/bbbash[D[D[C[C[C[Cash
+#!/bin/bash
 echo $(($BEST School))
-
