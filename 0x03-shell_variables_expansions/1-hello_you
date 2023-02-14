@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ""[Dhelo user[D[D[D[D     [D[D[D[D[D[lo $user"
+echo "hello $user"
