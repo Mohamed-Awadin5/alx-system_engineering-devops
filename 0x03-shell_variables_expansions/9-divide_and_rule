@@ -1,0 +1,3 @@
+#!/bin/bash
+echo $(($POWER / $DIVIDE))
+[D[D[A[C[C[C[C[C[C[C[C[D[D[B[D[B[D[A[A[B
